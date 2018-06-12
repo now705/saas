@@ -1,0 +1,73 @@
+
+
+
+body {
+
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", 
+				"Lucida Sans", Tahoma, sans-serif;	
+
+}
+
+/* Style the tab 
+.tab {
+    overflow: hidden;
+    border: 1px solid #5A8E66;
+    background-color: #9CD3A8;
+}
+
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+
+.tab button:hover {
+    background-color: #5A8E66;
+}
+
+
+.tab button.active {
+    background-color: #5A8E66;
+}
+
+
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+.homeImage
+{
+    max-height: 400px;
+    max-width: 400px;
+}*/
+.images
+{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.homeImage
+{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.card
+{
+    display: inline-block;
+    border: 1px solid grey;
+}
+
+.title
+{
+    text-align: center;
+}
